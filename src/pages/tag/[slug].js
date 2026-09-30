@@ -62,7 +62,7 @@ export async function getStaticProps({params}) {
     for (let i = 0; i < allPosts.length; i++) {
         const element = allPosts[i];
         
-        element.tags.map((data) => {
+        (element.tags || []).map((data) => {
             var tagsList = (slugify(data));
             if (tagsList.includes(pageParams)) {
                 tagsData.push(element);
@@ -87,7 +87,7 @@ export async function getStaticProps({params}) {
     for (let i = 0; i < postData.length; i++) {
         let singleData = postData[i];
 
-        singleData.tags.map((data) => {
+        (singleData.tags || []).map((data) => {
             tags.push(slugify(data));
         }) 
     }
