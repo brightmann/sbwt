@@ -3,7 +3,7 @@ postFormat: 'standard'
 title: '测试'
 featureImg: '/images/posts/test.webp'
 slidePost: true
-date: 'September 29 2026'
+date: 'September 29 2026 21:40'
 pCate: 'Tech Blog'
 cate: 'Design'
 cate_img: '/images/posts/category/design.webp'
