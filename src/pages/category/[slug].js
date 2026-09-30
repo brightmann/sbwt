@@ -55,7 +55,7 @@ export async function getStaticProps({ params }) {
 		'author_social'
 	]);
 	
-	const getCategoryData = allPosts.filter(post => slugify(post.cate) === postParams);
+	const getCategoryData = allPosts.filter(post => post.cate && slugify(post.cate) === postParams);
 	const postData = getCategoryData;
 	
 	return {
@@ -68,7 +68,7 @@ export async function getStaticProps({ params }) {
 
 
 export async function getStaticPaths() {
-	const posts = getAllPosts(['cate']);
+	const posts = getAllPosts(['cate']).filter(post => post.cate);
 
 	const paths = posts.map(post => ({
 		params: {
