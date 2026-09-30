@@ -2,7 +2,7 @@
 postFormat: 'standard'
 title: '战马'
 featureImg: '/images/posts/fh.webp'
-date: 'Sep 29 2026'
+date: 'Sep 29 2026 21:50'
 pCate: 'Seo Blog'
 cate: 'Research'
 cate_img: '/images/posts/category/research.webp'
