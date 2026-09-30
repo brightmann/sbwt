@@ -2,7 +2,7 @@
 postFormat: 'standard'
 title: '自动重建测试'
 featureImg: '/images/posts/auto-rebuild-test.webp'
-date: 'Sep 29 2026'
+date: 'Sep 29 2026 22:00'
 pCate: 'Tech Blog'
 cate: 'Design'
 cate_img: '/images/posts/category/design.webp'
