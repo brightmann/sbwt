@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'Security isn’t just a technology problem it’s about design, too'
-featureImg: '/images/posts/post-dark-01.webp'
+featureImg: '/images/posts/security-is-not-just-a-technology-problem.webp'
 videoLink: 'https://www.youtube.com/embed/U3v5yMF1hTs?origin=https://new.axilthemes.com/'
 date: 'Mar 20 2022'
 pCate: 'Tech Blog'

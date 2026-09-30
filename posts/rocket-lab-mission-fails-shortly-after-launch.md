@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Rocket Lab mission fails shortly after launch'
-featureImg: '/images/posts/post-tect-02.webp'
+featureImg: '/images/posts/rocket-lab-mission-fails-shortly-after-launch.webp'
 date: 'Jul 10 2022'
 pCate: 'Tech Blog'
 cate: 'Leadership'

@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'iPadOS 14 introduces new designed specifically for iPad'
-featureImg: '/images/posts/thumbnail-03.webp'
+featureImg: '/images/posts/ipados-14-introduces-new-designed-specifically-for-ipad.webp'
 slidePost: true
 date: 'Jul 24 2022'
 pCate: 'Tech Blog'

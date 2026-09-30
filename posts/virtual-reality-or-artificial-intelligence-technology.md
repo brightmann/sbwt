@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Virtual Reality or Artificial Intelligence Technology'
-featureImg: '/images/posts/post-tect-03.webp'
+featureImg: '/images/posts/virtual-reality-or-artificial-intelligence-technology.webp'
 date: 'Jul 06 2022'
 pCate: 'Tech Blog'
 cate: 'Technology'

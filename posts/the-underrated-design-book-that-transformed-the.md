@@ -2,7 +2,7 @@
 postFormat: 'video'
 sliderBanner: true
 title: 'The underrated design book that transformed the'
-featureImg: '/images/post-single/post-single-01.webp'
+featureImg: '/images/posts/the-underrated-design-book-that-transformed-the.webp'
 videoLink: 'https://www.youtube.com/embed/U3v5yMF1hTs?origin=https://new.axilthemes.com/'
 # sticky: true
 date: 'Mar 30 2022'

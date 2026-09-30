@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'To the lover of wilderness, Alaska is one of the most wonderful.'
-featureImg: '/images/posts/post-list-06.webp'
+featureImg: '/images/posts/to-the-lover-of-wilderness-alaska-is-one-of-the-most-wonderful.webp'
 date: 'Apr 10 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Travel'

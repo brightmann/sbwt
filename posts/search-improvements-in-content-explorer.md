@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Search improvements in Content Explorer'
-featureImg: '/images/posts/post-column-11.webp'
+featureImg: '/images/posts/search-improvements-in-content-explorer.webp'
 date: 'Jun 24 2022'
 cate: 'Search Engines'
 pCate: 'Seo Blog'

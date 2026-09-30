@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'I saw few die of hunger; of eating, a hundred thousand.'
-featureImg: '/images/posts/post-list-09.webp'
+featureImg: '/images/posts/i-saw-few-die-of-hunger-of-eating-a-hundred-thousand.webp'
 date: 'Apr 05 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Food'

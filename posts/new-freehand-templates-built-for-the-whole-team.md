@@ -1,7 +1,7 @@
 ---
 postFormat: 'quote'
 title: 'New: Freehand Templates, built for the whole team'
-featureImg: '/images/posts/post-list-04.webp'
+featureImg: '/images/posts/new-freehand-templates-built-for-the-whole-team.webp'
 quotePost: true
 date: 'Feb 16 2022'
 pCate: 'Tech Blog'

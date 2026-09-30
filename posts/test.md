@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: '测试'
-featureImg: '/images/posts/thumbnail-01.webp'
+featureImg: '/images/posts/test.webp'
 slidePost: true
 date: 'September 29 2026'
 pCate: 'Tech Blog'

@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Fashion portrait of young businessman handsome model man in casual cloth.'
-featureImg: '/images/posts/lifestyle-post-02.webp'
+featureImg: '/images/posts/fashion-portrait-of-young-businessman-handsome.webp'
 date: 'Mar 28 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Lifestyle'

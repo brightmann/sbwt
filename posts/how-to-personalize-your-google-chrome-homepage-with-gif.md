@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'How to personalize your Google Chrome homepage with GIF'
-featureImg: '/images/posts/post-tech-10.webp'
+featureImg: '/images/posts/how-to-personalize-your-google-chrome-homepage-with-gif.webp'
 date: 'Jul 22 2022'
 pCate: 'Tech Blog'
 cate: 'Design'

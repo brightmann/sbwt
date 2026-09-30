@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Facebook for Business: Marketing on Facebook'
-featureImg: '/images/posts/post-seo-sm-04.webp'
+featureImg: '/images/posts/facebook-for-business-marketing-on-facebook.webp'
 date: 'Jun 19 2022'
 cate: 'Branding'
 pCate: 'Seo Blog'

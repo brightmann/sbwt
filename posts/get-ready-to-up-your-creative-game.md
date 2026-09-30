@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'Get Ready To Up Your Creative Game With The New DJI Mavic'
-featureImg: '/images/posts/post-grid-01.webp'
+featureImg: '/images/posts/get-ready-to-up-your-creative-game.webp'
 videoLink: 'https://www.youtube.com/embed/U3v5yMF1hTs?origin=https://new.axilthemes.com/'
 date: 'Feb 20 2022'
 pCate: 'Tech Blog'

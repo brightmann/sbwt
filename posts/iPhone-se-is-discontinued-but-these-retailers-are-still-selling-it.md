@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'iPhone SE is discontinued, but these retailers are still selling it'
-featureImg: '/images/posts/thumbnail-06.webp'
+featureImg: '/images/posts/iphone-se-is-discontinued-but-these-retailers-are-still-selling-it.webp'
 date: 'Jul 21 2022'
 pCate: 'Tech Blog'
 cate: 'Gadget'

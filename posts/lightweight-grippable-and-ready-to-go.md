@@ -1,7 +1,7 @@
 ---
 postFormat: 'audio'
 title: 'Lightweight, grippable,and ready to go.'
-featureImg: '/images/posts/post-column-08.webp'
+featureImg: '/images/posts/lightweight-grippable-and-ready-to-go.webp'
 audio: '/images/audio_file.mp3'
 date: 'Feb 26 2022'
 cate: 'Marketing'

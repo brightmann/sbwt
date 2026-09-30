@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Introducing Keyword Data in Site Explorer'
-featureImg: '/images/posts/post-column-09.webp'
+featureImg: '/images/posts/introducing-keyword-data-in-site-explorer.webp'
 date: 'Jun 22 2022'
 cate: 'Search Engines'
 pCate: 'Seo Blog'

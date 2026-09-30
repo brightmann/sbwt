@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'OnePlus Nord hands-on Strong features at a tempting price'
-featureImg: '/images/posts/post-tech-07.webp'
+featureImg: '/images/posts/oneplus-nord-hands-on-strong-features-at-a-tempting-price.webp'
 date: 'Jul 16 2022'
 pCate: 'Tech Blog'
 cate: 'Gadget'

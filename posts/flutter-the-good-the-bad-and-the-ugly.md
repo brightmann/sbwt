@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'Flutter: the good, the bad and the ugly'
-featureImg: '/images/posts/thumbnail-10.webp'
+featureImg: '/images/posts/flutter-the-good-the-bad-and-the-ugly.webp'
 videoLink: 'https://www.youtube.com/embed/U3v5yMF1hTs?origin=https://new.axilthemes.com/'
 featured: true
 date: 'Feb 15 2022'

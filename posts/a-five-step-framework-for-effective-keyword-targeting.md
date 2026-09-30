@@ -1,7 +1,7 @@
 ---
 postFormat: 'video'
 title: 'A five-step framework for effective keyword targeting'
-featureImg: '/images/posts/thumbnail-08.webp'
+featureImg: '/images/posts/a-five-step-framework-for-effective-keyword-targeting.webp'
 date: 'Jun 30 2022'
 pCate: 'Seo Blog'
 cate: 'SEO'

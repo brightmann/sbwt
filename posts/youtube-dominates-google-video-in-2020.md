@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'YouTube Dominates Google Video in 2020'
-featureImg: '/images/posts/post-seo-list-02.webp'
+featureImg: '/images/posts/youtube-dominates-google-video-in-2020.webp'
 date: 'Jun 20 2022'
 cate: 'Search Engines'
 pCate: 'Seo Blog'

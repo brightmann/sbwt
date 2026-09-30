@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'These 5 tips will help you nail your next design presentation'
-featureImg: '/images/posts/thumbnail-02.webp'
+featureImg: '/images/posts/these-5-tips-will-help-you-nail-your-next-design.webp'
 slidePost: true
 date: 'Jul 22 2022'
 pCate: 'Tech Blog'

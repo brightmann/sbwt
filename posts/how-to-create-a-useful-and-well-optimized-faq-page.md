@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'How to Create a Useful and Well Optimized FAQ Page'
-featureImg: '/images/posts/post-seo-list-03.webp'
+featureImg: '/images/posts/how-to-create-a-useful-and-well-optimized-faq-page.webp'
 date: 'Jun 21 2022'
 cate: 'SEO'
 pCate: 'Seo Blog'

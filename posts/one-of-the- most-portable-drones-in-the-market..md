@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'One of the most portable drones in the market.'
-featureImg: '/images/posts/post-test-tech-04.webp'
+featureImg: '/images/posts/one-of-the-most-portable-drones-in-the-market.webp'
 date: 'Jul 15 2022'
 pCate: 'Tech Blog'
 cate: 'Gadget'

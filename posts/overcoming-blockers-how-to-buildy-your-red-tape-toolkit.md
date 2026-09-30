@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Overcoming Blockers How to Build Your Red Tape Toolkit'
-featureImg: '/images/posts/post-seo-list-05.webp'
+featureImg: '/images/posts/overcoming-blockers-how-to-buildy-your-red-tape-toolkit.webp'
 date: 'Jul 05 2022'
 cate: 'Branding'
 pCate: 'Seo Blog'

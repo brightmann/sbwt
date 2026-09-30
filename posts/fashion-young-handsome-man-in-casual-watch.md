@@ -1,7 +1,7 @@
 ---
 postFormat: 'gallery'
 title: 'Fashion Young Handsome Man in Casual Watch'
-featureImg: '/images/posts/lifestyle-post-01.webp'
+featureImg: '/images/posts/fashion-young-handsome-man-in-casual-watch.webp'
 gallery: ['/images/post-single/post-single-02.webp', '/images/post-single/post-single-05.webp', '/images/post-single/post-single-01.webp']
 date: 'Apr 12 2022'
 pCate: 'Lifestyle Blog'

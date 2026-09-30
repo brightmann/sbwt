@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Apple reimagines the iPhone experience with iOS 14'
-featureImg: '/images/posts/thumbnail-05.webp'
+featureImg: '/images/posts/apple-reimagines-the-iphone-experience.webp'
 featured: true
 date: 'Feb 10 2022'
 pCate: 'Tech Blog'

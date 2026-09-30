@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Air Pods Pro with Wireless Charging Case.'
-featureImg: '/images/posts/post-tect-05.webp'
+featureImg: '/images/posts/air-pods-pro-with-wireless-charging-case.webp'
 date: 'Jul 12 2022'
 pCate: 'Tech Blog'
 cate: 'Gadget'

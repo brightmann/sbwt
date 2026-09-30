@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: '4 types of research methods all designers should know'
-featureImg: '/images/posts/thumbnail-01.webp'
+featureImg: '/images/posts/4-types-of-research-methods-all-designers.webp'
 slidePost: true
 date: 'Feb 30 2022'
 pCate: 'Tech Blog'

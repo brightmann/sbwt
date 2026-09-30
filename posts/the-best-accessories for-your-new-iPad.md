@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'The best accessories for your new iPad'
-featureImg: '/images/posts/post-tech-09.webp'
+featureImg: '/images/posts/the-best-accessories-for-your-new-ipad.webp'
 date: 'Jul 20 2022'
 pCate: 'Tech Blog'
 cate: 'Products'

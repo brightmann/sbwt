@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'As a lifestyle you always being the focal point is innately unhealthy.'
-featureImg: '/images/posts/post-list-08.webp'
+featureImg: '/images/posts/as-a-lifestyle-you-always-being-the-focal.webp'
 date: 'Mar 29 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Lifestyle'

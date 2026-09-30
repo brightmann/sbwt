@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Bold new experience. Same Mac magic.'
-featureImg: '/images/posts/post-column-02.webp'
+featureImg: '/images/posts/bold-new-experience-same-mac-magic.webp'
 date: 'Jun 25 2022'
 pCate: 'Seo Blog'
 cate: 'Research'

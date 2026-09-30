@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'The beautiful girl standing on a balcony of apartments looking at the seaside.'
-featureImg: '/images/posts/lifestyle-post-03.webp'
+featureImg: '/images/posts/the-beautiful-girl-standing-on-a-balcony.webp'
 date: 'Apr 11 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Travel'

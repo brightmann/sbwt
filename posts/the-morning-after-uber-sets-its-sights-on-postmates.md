@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'The Morning After Uber sets its sights on Postmates'
-featureImg: '/images/posts/post-tect-04.webp'
+featureImg: '/images/posts/the-morning-after-uber-sets-its-sights-on-postmates.webp'
 date: 'Jul 18 2022'
 pCate: 'Tech Blog'
 cate: 'Products'

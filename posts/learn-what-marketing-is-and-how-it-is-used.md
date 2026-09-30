@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'How to craft great page titles for SEO'
-featureImg: '/images/posts/post-seo-sm-02.webp'
+featureImg: '/images/posts/learn-what-marketing-is-and-how-it-is-used.webp'
 date: 'Jun 17 2022'
 cate: 'SEO'
 pCate: 'Seo Blog'

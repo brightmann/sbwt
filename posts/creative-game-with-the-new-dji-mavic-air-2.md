@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Creative Game With The New DJI Mavic Air 2'
-featureImg: '/images/posts/post-column-02.webp'
+featureImg: '/images/posts/creative-game-with-the-new-dji-mavic-air-2.webp'
 date: 'Jul 01 2022'
 cate: 'Branding'
 pCate: 'Seo Blog'

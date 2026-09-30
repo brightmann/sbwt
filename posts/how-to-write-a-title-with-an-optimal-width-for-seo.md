@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'How to write a title with an optimal width for SEO'
-featureImg: '/images/posts/post-seo-grid-01.webp'
+featureImg: '/images/posts/how-to-write-a-title-with-an-optimal-width-for-seo.webp'
 date: 'Jun 15 2022'
 cate: 'Research'
 pCate: 'Seo Blog'

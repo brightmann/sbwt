@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Building agility with technology and talent'
-featureImg: '/images/posts/thumbnail-02.webp'
+featureImg: '/images/posts/building-agility-with-technology-and-talent.webp'
 date: 'Jun 28 2022'
 pCate: 'Seo Blog'
 cate: 'Marketing'

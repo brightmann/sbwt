@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'A good traveler has no fixed plans, and is not intent on arriving.'
-featureImg: '/images/posts/thumbnail-07.webp'
+featureImg: '/images/posts/a-good-traveler-has-no-fixed-plans-and-is-not-intent-on-arriving.webp'
 date: 'Apr 11 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Travel'

@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Beauty of deep space. Billions of galaxies in the universe.'
-featureImg: '/images/posts/thumbnail-09.webp'
+featureImg: '/images/posts/beauty-of-deep-space-billions-of-galaxies-in-the-universe.webp'
 date: 'Jul 23 2022'
 pCate: 'Tech Blog'
 cate: 'Leadership'

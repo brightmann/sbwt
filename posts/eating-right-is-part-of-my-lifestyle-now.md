@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'Eating right is part of my lifestyle now.'
-featureImg: '/images/posts/post-list-05.webp'
+featureImg: '/images/posts/eating-right-is-part-of-my-lifestyle-now.webp'
 date: 'Apr 01 2022'
 pCate: 'Lifestyle Blog'
 cate: 'Food'
