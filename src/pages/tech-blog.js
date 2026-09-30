@@ -3,7 +3,7 @@ import FooterThree from "../common/elements/footer/FooterThree";
 import { getAllPosts } from '../../lib/api';
 import HeaderThree from "../common/elements/header/HeaderThree";
 import HeadTitle from "../common/elements/head/HeadTitle";
-import { slugify, SortingByDate } from "../common/utils";
+import { slugify } from "../common/utils";
 import PostSectionNine from '../common/components/post/PostSectionNine';
 import CategoryListSlide from '../common/components/category/CategoryListSlide';
 import PostSectionThree from '../common/components/post/PostSectionThree';
@@ -53,7 +53,6 @@ export async function getStaticProps() {
       'author_social',
     ])
     
-    SortingByDate(allPosts)
     return {
       props: { allPosts }
     }

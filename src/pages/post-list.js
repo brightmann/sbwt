@@ -6,7 +6,6 @@ import HeaderOne from "../common/elements/header/HeaderOne";
 import { getAllPosts } from '../../lib/api';
 import SidebarOne from "../common/components/sidebar/SidebarOne";
 import PostLayoutTwo from "../common/components/post/layout/PostLayoutTwo";
-import { SortingByDate } from "../common/utils";
 import HeadTitle from "../common/elements/head/HeadTitle";
 
 const PostListPage = ({ allPosts }) => {
@@ -80,7 +79,6 @@ export async function getStaticProps() {
         'author_social',
     ])
 
-    SortingByDate(allPosts);
     return {
         props: { allPosts }
     }

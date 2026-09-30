@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 import { getAllPosts } from '../../lib/api';
-import { slugify, SortingByDate } from "../common/utils";
+import { slugify } from "../common/utils";
 import InstagramOne from "../common/components/instagram/InstagramOne";
 import PostSectionFour from "../common/components/post/PostSectionFour";
 import SocialOne from "../common/components/social/SocialOne";
@@ -58,7 +58,6 @@ export async function getStaticProps() {
       'read_time',
       'author_social',
     ])
-    SortingByDate(allPosts);
     return {
       props: { allPosts }
     }
