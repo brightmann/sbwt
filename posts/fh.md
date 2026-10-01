@@ -26,7 +26,7 @@ author_social:
         icon: fas fa-link
         url: https://linkedin.com
 tags: 
-     - misc1
+    - misc1
     - misc2
     - misc3
 ---
